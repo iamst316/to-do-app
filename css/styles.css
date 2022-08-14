@@ -1,9 +1,10 @@
 .main-heading{
 	color: #1C2833;
 	background-color: #FFC300;
-	padding: auto;
+	padding: 15%;
 	/*display: flex;*/
-	margin: 10%;
+	margin-top: 1%;
+	box-shadow: 5px 8px #133214;
 	
 }
 
@@ -11,4 +12,13 @@
 html{
 	font-family: 'Oswald', sans-serif;
 	background-color: #FFFBB9;
+}
+
+.features{
+	color: #1C2833;
+	background-color: #FFC300;
+	padding: 15%;
+	/*display: flex;*/
+	margin-top: 5%;
+	box-shadow: 5px 8px #133214;
 }
