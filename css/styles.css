@@ -1,0 +1,14 @@
+.main-heading{
+	color: #1C2833;
+	background-color: #FFC300;
+	padding: auto;
+	/*display: flex;*/
+	margin: 10%;
+	
+}
+
+
+html{
+	font-family: 'Oswald', sans-serif;
+	background-color: #FFFBB9;
+}
