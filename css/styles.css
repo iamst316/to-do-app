@@ -14,7 +14,7 @@ html{
 	background-color: #FFFBB9;
 }
 
-.features{
+.features, .get-started{
 	color: #1C2833;
 	background-color: #FFC300;
 	padding: 15%;
@@ -22,3 +22,5 @@ html{
 	margin-top: 5%;
 	box-shadow: 5px 8px #133214;
 }
+
+
