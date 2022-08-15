@@ -30,6 +30,26 @@ html{
 	display:table;
 	padding: 5px;
 	margin: 10px;
+	width:270px;
+	height: 50px;
+	text-align: center;
+	border-radius: 9px;
+	font-size:200%;
+	
+	
 }
+.get-started{
+	padding: auto;
+	
+}
+
+
+
+
+
+
+
+
+
 
 
