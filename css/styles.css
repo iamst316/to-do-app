@@ -24,7 +24,12 @@ html{
 }
 
 .login, .signup{
-	border-style: solid;
+	border: 2px solid #133214;
 	color: white;
 	background-color: black;
+	display:table;
+	padding: 5px;
+	margin: 10px;
 }
+
+
