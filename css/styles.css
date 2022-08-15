@@ -23,4 +23,8 @@ html{
 	box-shadow: 5px 8px #133214;
 }
 
-
+.login, .signup{
+	border-style: solid;
+	color: white;
+	background-color: black;
+}
