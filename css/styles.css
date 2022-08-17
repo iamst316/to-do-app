@@ -1,13 +1,17 @@
 .main-heading{
 	color: #1C2833;
 	background-color: #FFC300;
-	padding: 15%;
+	padding: 13%;
 	/*display: flex;*/
 	margin-top: 1%;
 	box-shadow: 5px 8px #133214;
-	
+	text-align: center;
 }
 
+img.main-img{
+	height:50px;
+	width: 50px;
+}
 
 html{
 	font-family: 'Oswald', sans-serif;
@@ -65,9 +69,7 @@ img{
 	text-align: justify;
 }
 
-a.login, a.signup{
-	
-}
+
 
 
 
