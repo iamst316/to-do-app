@@ -2,8 +2,10 @@
 
 #my-div {
     background-color: #f00;
-    width: 20px;
+    width: 200px;
     height: 200px;
+    border: 5px solid blue;
+	box-shadow: 2px 5px #FF5A0D;
 }
 a {
     display: block;
@@ -11,3 +13,10 @@ a {
     width: 100%;
     text-decoration: none;
 }
+
+div#my-div:hover{
+	background-color: #FFFBB9;
+	border: 5px solid green;
+	box-shadow: 2px 5px #1A2C85;
+}
+

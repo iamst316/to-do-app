@@ -39,9 +39,16 @@ html{
 	text-align: center;
 	border-radius: 9px;
 	font-size:200%;
-	
-	
+	text-decoration: none;
 }
+
+a.login:hover, a.signup:hover{
+	background-color: #FF5809;
+	border: 2px solid #140652;
+	color: #302C29;
+	box-shadow: 5px 5px #302C29;
+}
+
 .get-started{
 	padding: auto;
 	
