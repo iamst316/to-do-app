@@ -30,3 +30,57 @@ img.main-img{
 	height:50px;
 	width: 50px;
 }
+
+.sign-up{
+	color: #1C2833;
+	background-color: #FFC300;
+	padding: 13%;
+	/*display: flex;*/
+	margin-top: 1%;
+	box-shadow: 5px 8px #133214;
+	text-align: center;
+}
+
+.sign-up-form{
+	color: #1C2833;
+	background-color: #FFC300;
+	padding: 13%;
+	/*display: flex;*/
+	margin-top: 1%;
+	box-shadow: 5px 8px #133214;
+	text-align: center;
+}
+
+#submit{
+	background-color: #FFF781;
+	height: 50px;
+	width: 100px;
+	font-size: 20px;
+	border-radius: 50px;
+}
+
+#submit:hover{
+	background-color: #FF6D00;
+	color: white;
+	box-shadow: 4px 5px #1B4006 ;
+}
+
+input{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
