@@ -13,8 +13,53 @@
         <script src="./js/main.js"></script>
     </head>
     <body>
+    	<div class='sign-up'>
+			<a href="../hompeage.html"><img class="main-img" src="./img/icon.png"></img></a>
+    		<h1 style="font-size: 75px">Sign Up!</h1>
+    	</div>
+
+    	<!--Form-->
+    	
     	<div class='sign-up-form'>
-			<form>
+			<form action='' method='post'>
+				<div class='name'>
+					<label>Enter Name: </label>
+					<input type='text' name='name' required>
+				</div>
+				
+				<div class='username'>
+					<label>Enter Username: </label>
+					<input type='text' name='username' required>
+				</div>
+				
+				<div class='email'>
+					<label>Enter E-Mail: </label>
+					<input type='email' name='name' required>
+				</div>
+				
+				<div class='gender'>
+					<label>Gender: </label>
+					<input type='radio' name='gender' value='male' required>
+					<label> Male</label>
+					<input type='radio' name='gender' value='female' required>
+					<label> Female</label>
+					<input type='radio' name='gender' value='others' required>
+					<label> Others</label>
+				</div>
+				
+				<div class='password'>
+					<label>Enter Password: </label>
+					<input type='password' name='password' minlength='6' maxlength='12' required>
+				</div>
+				
+				<div class='cpassword'>
+					<label>Confirm Password: </label>
+					<input type='password' name='cpassword' required>
+				</div>
+				
+				<div class='submit'>
+					<input type='submit' value='Sign Up'>
+				</div>
 				
 			</form>
     	</div>
