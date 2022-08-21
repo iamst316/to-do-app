@@ -57,8 +57,9 @@ img.main-img{
 	font-size: 40px;
 	text-align: justify;
 }
-input.text{
-	width: 10px;
+.text{
+	width: 300px;
+	
 }
 
 
