@@ -51,6 +51,18 @@ img.main-img{
 	text-align: center;
 }
 
+.name, .username, .email, .gender, .password,.cpassword{
+	margin: 10px;
+	text-shadow: 1px 1px #0D3504;
+	font-size: 40px;
+	text-align: justify;
+}
+input.text{
+	width: 10px;
+}
+
+
+
 #submit{
 	background-color: #FFF781;
 	height: 50px;
