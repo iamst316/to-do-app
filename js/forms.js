@@ -6,3 +6,6 @@ function hi(){
 	document.getElementById("demo").innerHTML= "Hello!";
 }
 
+function profileName(){
+	const username= document.getElementById("demo");
+}

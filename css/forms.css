@@ -78,8 +78,14 @@ img.main-img{
 	box-shadow: 4px 5px #1B4006 ;
 }
 
-input{
-	
+.profile-banner{
+	color: #1C2833;
+	background-color: #FFC300;
+	padding: 13%;
+	/*display: flex;*/
+	margin-top: 1%;
+	box-shadow: 5px 8px #133214;
+	text-align: center;
 }
 
 
