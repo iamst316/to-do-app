@@ -1,4 +1,4 @@
-# to-do-app
+# Dashy To-Do-App
 
 This will be my attempt to make a simple, user-friendly and feature-rich to-do app using any JavaScript concept(s) possible.
 

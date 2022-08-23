@@ -3,7 +3,7 @@ html{
 	background-color: #FFFBB9;
 }
 
-.footer{
+.footer,.login-footer{
 	color: #FFC300;
 	background-color: #012902;
 	padding: 15%;
@@ -31,7 +31,7 @@ img.main-img{
 	width: 50px;
 }
 
-.sign-up{
+.sign-up,.login{
 	color: #1C2833;
 	background-color: #FFC300;
 	padding: 13%;
@@ -41,7 +41,7 @@ img.main-img{
 	text-align: center;
 }
 
-.sign-up-form{
+.sign-up-form,.login-form{
 	color: #1C2833;
 	background-color: #FFC300;
 	padding: 13%;
@@ -64,7 +64,7 @@ img.main-img{
 
 
 
-#submit{
+#submit,.login-btn{
 	background-color: #FFF781;
 	height: 50px;
 	width: 100px;
@@ -72,7 +72,7 @@ img.main-img{
 	border-radius: 50px;
 }
 
-#submit:hover{
+#submit:hover,.login-btn:hover{
 	background-color: #FF6D00;
 	color: white;
 	box-shadow: 4px 5px #1B4006 ;
