@@ -8,4 +8,5 @@ function hi(){
 
 function profileName(){
 	const username= document.getElementById("demo");
+	const profname= username;
 }
